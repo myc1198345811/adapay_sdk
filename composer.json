@@ -10,12 +10,7 @@
     }
   },
   "keywords": [
-    "cccdl",
-    "汇付",
-    "汇付天下",
-    "adapay",
-    "pay",
-    "adapay_sdk"
+    "adapay"
   ],
   "authors": [
     {
@@ -25,7 +20,7 @@
   ],
   "require": {
     "php": ">=7.1",
-    "guzzlehttp/guzzle": "^6.0",
+    "guzzlehttp/guzzle": "^7.0",
     "ext-openssl": "*",
     "ext-json": "*"
   },
