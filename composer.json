@@ -1,5 +1,5 @@
 {
-  "name": "cccdl/adapay_sdk",
+  "name": "myc/adapay_sdk",
   "description": "汇付天下API SDK for PHP !",
   "homepage": "https://github.com/cccdl/adapay_sdk",
   "type": "library",
